@@ -88,7 +88,3 @@ qrcode.constants.ERROR_CORRECT_H  # 30%
 * Create colored and gradient QR codes
 * Build a GUI using Tkinter
 * Develop a web version using Flask or Django
-
-## Author
-
-Addwin Alanolikkal
